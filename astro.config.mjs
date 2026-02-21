@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'https://aparajita.github.io',
+  site: 'https://Aparajita-K.github.io',
   base: '/lab',
 })
